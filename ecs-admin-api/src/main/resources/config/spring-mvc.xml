@@ -13,4 +13,4 @@
     <dubbo:application name="ecs-admin-api" />
     <dubbo:registry address="zookeeper://192.168.229.130:2181" />
     <dubbo:annotation package="com.ecs.goods.controller" />
-</beans>
+</beans>                  
